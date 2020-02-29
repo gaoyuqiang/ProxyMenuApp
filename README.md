@@ -1,0 +1,2 @@
+# ProxyMenuApp
+ProxyMenuApp是一个在菜单栏显示的可以切换代码的macos App
